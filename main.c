@@ -4,6 +4,6 @@
 
 int main()
 {
-    printf("%d", addition(1,4));
+    printf("L'addition de a et b vaut : %d", addition(1,4));
     return 0;
 }
