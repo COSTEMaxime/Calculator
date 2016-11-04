@@ -4,6 +4,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("%d", addition(1,4));
     return 0;
 }
