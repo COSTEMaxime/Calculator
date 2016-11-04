@@ -3,5 +3,6 @@
 
 int addition (int a, int b);
 int soustraction (int a, int b);
+int multiplication (int a, int b);
 
 #endif // FONCTIONS_H_INCLUDED
