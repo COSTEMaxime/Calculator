@@ -4,6 +4,13 @@
 *.obj
 *.elf
 
+#codeBlocks
+*.cpb
+*.depend
+*.layout
+bin/
+obj/
+
 # Precompiled Headers
 *.gch
 *.pch
